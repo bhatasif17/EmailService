@@ -1,4 +1,9 @@
-﻿using System.Collections.Generic;
+﻿/* ------------------------------------------------------------------
+ * The GNU General Public License v3.0
+ * Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ * Asif Bhat
+   ------------------------------------------------------------------ */
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace EmailService.Models

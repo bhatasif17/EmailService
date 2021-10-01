@@ -1,4 +1,9 @@
-﻿using EmailService.Models;
+﻿/* ------------------------------------------------------------------
+ * The GNU General Public License v3.0
+ * Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ * Asif Bhat
+   ------------------------------------------------------------------ */
+using EmailService.Models;
 using EmailService.Utils;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
